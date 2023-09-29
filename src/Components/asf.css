@@ -1,0 +1,61 @@
+.heading_1{
+    text-align: center;
+}
+.container {
+    margin-left: 550px;
+    display: flex;
+    align-items: center; 
+  }
+  
+  .image-container {
+    border: 5px;
+    border-radius: 10px;
+    color: rgb(87, 19, 139);
+    border-style: dashed ;
+    padding: auto;
+  }
+  
+  .buttons-container {
+    display: flex;
+    flex-direction: column; 
+    margin-left: 20px;
+    
+
+  }
+  .buttons_m{
+    border: 5px;
+    border-radius: 10px;
+    border-style: double;
+    border-color: yellow;
+    color: red;
+    height: 50px;
+  }
+  .new_buttons_design{
+    height: 25px;
+    border: 5px;
+    border-radius: 10px;
+    border-style: dashed;
+    color: rgb(87, 19, 139);
+  }
+  .adding_buttons{
+    border: 5px;
+    text-align: center;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 570px;
+    border-radius: 10px;
+    border-style: dotted;
+    color: rgb(95, 153, 60);
+  }
+
+  #background_changer{
+    margin-top: 10px;
+    margin-left: 300px;
+    text-align: center;
+    border: 3px;
+    border-radius: 10px;
+    height: 200px;
+    width: 700px;
+    border-style: double;
+  }
+  
